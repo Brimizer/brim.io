@@ -18,6 +18,8 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
 
+exclude: [/vendor]
+
 # Dependencies
 markdown: kramdown
 highlighter: pygments
